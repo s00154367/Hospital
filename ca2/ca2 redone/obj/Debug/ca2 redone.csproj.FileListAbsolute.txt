@@ -1,0 +1,56 @@
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\bin\Debug\ca2 redone.exe.config
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\bin\Debug\ca2 redone.exe
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\bin\Debug\ca2 redone.pdb
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\MainWindow.g.cs
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\App.g.cs
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.cache
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.lref
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\MainWindow.baml
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone.g.resources
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2_redone.Properties.Resources.resources
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone.csproj.GenerateResource.Cache
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone.exe
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone.pdb
+C:\Users\s00154367\Desktop\ca2 redone\ca2 redone\obj\Debug\ca2 redone.csprojResolveAssemblyReference.cache
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe.config
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.exe
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.pdb
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csprojResolveAssemblyReference.cache
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.g.cs
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\App.g.cs
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.cache
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.lref
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.pdb
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.baml
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.g.resources
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2_redone.Properties.Resources.resources
+C:\Users\s00154367\Desktop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csproj.GenerateResource.Cache
+G:\college\foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe.config
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.exe
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.pdb
+G:\college\foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe
+G:\college\foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.pdb
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csprojResolveAssemblyReference.cache
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.g.cs
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\App.g.cs
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.cache
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.lref
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.baml
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.g.resources
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2_redone.Properties.Resources.resources
+G:\college\foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csproj.GenerateResource.Cache
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe.config
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.exe
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.pdb
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.exe
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\bin\Debug\ca2 redone.pdb
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csprojResolveAssemblyReference.cache
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.g.cs
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\App.g.cs
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.cache
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone_MarkupCompile.lref
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\MainWindow.baml
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.g.resources
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2_redone.Properties.Resources.resources
+C:\Users\Sean Golden\Desktop\College\Foop\ca2 redone - Copy\ca2 redone\obj\Debug\ca2 redone.csproj.GenerateResource.Cache
